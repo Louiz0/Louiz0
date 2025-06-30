@@ -13,6 +13,7 @@ Sou estudante de Ciência da Computação na Universidade do Vale do Itajaí (UN
 <a href="https://www.instagram.com/luizfantini_/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
+
 ##
 ### Tecnologias:
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
